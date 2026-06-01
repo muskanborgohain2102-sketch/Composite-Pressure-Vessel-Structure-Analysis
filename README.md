@@ -151,8 +151,3 @@ This improvement is attributed to more uniform load distribution across the lami
 
 ---
 
-## Related Publication
-
-The coupled thermal-structural analysis and material characterization work associated with this project has been accepted for publication in:
-
-> *Proceedings of the International Conference on Recent Advancements in Mechanical Engineering (ICRAME 2025), NIT Silchar, India*
